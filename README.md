@@ -1,2 +1,2 @@
 # coursera_assignments
-Repo for assignments coursera course: HTML, CSS, and Javascript for Web Developers
+Repo for assignments - coursera course: HTML, CSS, and Javascript for Web Developers
